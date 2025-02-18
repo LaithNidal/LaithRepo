@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Laith Saeed</h1>
-<h3 align="center">A passionate Machine Learning / Data Analyst from Jordan/ Canada</h3>
+<h3 align="center">Data Scientist || Machine Learning Engineer || Jordan/Canada   from Jordan/ Canada</h3>
 
 - 🔭 I’m currently working on [Diabetes predication model (Supervised & Hyperparameter Tuned)](https://github.com/LaithNidal/DiabetesML-Supervised-Classfication-)
 
